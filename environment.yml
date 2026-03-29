@@ -1,0 +1,9 @@
+name: dogger_data_plots
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - scipy

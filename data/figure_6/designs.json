@@ -1,0 +1,1102 @@
+[
+    {
+        "scale_factor_thigh_range": [
+            1.0,
+            1.0
+        ],
+        "scale_factor_shank_range": [
+            1.0,
+            1.0
+        ],
+        "scale_factor_foot_range": [
+            1.0,
+            1.0
+        ],
+        "spring_offset_length_range": [
+            0.0,
+            0.0
+        ],
+        "spring_wheel_diameter_range": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.0,
+            1.0
+        ],
+        "scale_factor_shank_range": [
+            1.0,
+            1.0
+        ],
+        "scale_factor_foot_range": [
+            1.0,
+            1.0
+        ],
+        "spring_offset_length_range": [
+            0.005,
+            0.005
+        ],
+        "spring_wheel_diameter_range": [
+            0.025,
+            0.025
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.86,
+            0.86
+        ],
+        "scale_factor_shank_range": [
+            1.02,
+            1.02
+        ],
+        "scale_factor_foot_range": [
+            1.28,
+            1.28
+        ],
+        "spring_offset_length_range": [
+            0.006,
+            0.006
+        ],
+        "spring_wheel_diameter_range": [
+            0.033,
+            0.033
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.3,
+            1.3
+        ],
+        "scale_factor_shank_range": [
+            0.7,
+            0.7
+        ],
+        "scale_factor_foot_range": [
+            1.3,
+            1.3
+        ],
+        "spring_offset_length_range": [
+            0.002,
+            0.002
+        ],
+        "spring_wheel_diameter_range": [
+            0.038,
+            0.038
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.71,
+            0.71
+        ],
+        "scale_factor_shank_range": [
+            0.82,
+            0.82
+        ],
+        "scale_factor_foot_range": [
+            1.13,
+            1.13
+        ],
+        "spring_offset_length_range": [
+            0.001,
+            0.001
+        ],
+        "spring_wheel_diameter_range": [
+            0.043,
+            0.043
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.29,
+            1.29
+        ],
+        "scale_factor_shank_range": [
+            1.01,
+            1.01
+        ],
+        "scale_factor_foot_range": [
+            0.98,
+            0.98
+        ],
+        "spring_offset_length_range": [
+            0.009,
+            0.009
+        ],
+        "spring_wheel_diameter_range": [
+            0.04,
+            0.04
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.1,
+            1.1
+        ],
+        "scale_factor_shank_range": [
+            0.93,
+            0.93
+        ],
+        "scale_factor_foot_range": [
+            1.08,
+            1.08
+        ],
+        "spring_offset_length_range": [
+            0.002,
+            0.002
+        ],
+        "spring_wheel_diameter_range": [
+            0.025,
+            0.025
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.18,
+            1.18
+        ],
+        "scale_factor_shank_range": [
+            0.84,
+            0.84
+        ],
+        "scale_factor_foot_range": [
+            0.79,
+            0.79
+        ],
+        "spring_offset_length_range": [
+            0.004,
+            0.004
+        ],
+        "spring_wheel_diameter_range": [
+            0.049,
+            0.049
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.7,
+            0.7
+        ],
+        "scale_factor_shank_range": [
+            1.3,
+            1.3
+        ],
+        "scale_factor_foot_range": [
+            0.7,
+            0.7
+        ],
+        "spring_offset_length_range": [
+            0.01,
+            0.01
+        ],
+        "spring_wheel_diameter_range": [
+            0.05,
+            0.05
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.3,
+            1.3
+        ],
+        "scale_factor_shank_range": [
+            0.7,
+            0.7
+        ],
+        "scale_factor_foot_range": [
+            1.3,
+            1.3
+        ],
+        "spring_offset_length_range": [
+            0.0,
+            0.0
+        ],
+        "spring_wheel_diameter_range": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.7,
+            0.7
+        ],
+        "scale_factor_shank_range": [
+            0.93,
+            0.93
+        ],
+        "scale_factor_foot_range": [
+            0.94,
+            0.94
+        ],
+        "spring_offset_length_range": [
+            0.0,
+            0.0
+        ],
+        "spring_wheel_diameter_range": [
+            0.041,
+            0.041
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.14,
+            1.14
+        ],
+        "scale_factor_shank_range": [
+            0.82,
+            0.82
+        ],
+        "scale_factor_foot_range": [
+            0.85,
+            0.85
+        ],
+        "spring_offset_length_range": [
+            0.003,
+            0.003
+        ],
+        "spring_wheel_diameter_range": [
+            0.013,
+            0.013
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.71,
+            0.71
+        ],
+        "scale_factor_shank_range": [
+            0.83,
+            0.83
+        ],
+        "scale_factor_foot_range": [
+            1.01,
+            1.01
+        ],
+        "spring_offset_length_range": [
+            0.009,
+            0.009
+        ],
+        "spring_wheel_diameter_range": [
+            0.004,
+            0.004
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.25,
+            1.25
+        ],
+        "scale_factor_shank_range": [
+            1.0,
+            1.0
+        ],
+        "scale_factor_foot_range": [
+            0.77,
+            0.77
+        ],
+        "spring_offset_length_range": [
+            0.001,
+            0.001
+        ],
+        "spring_wheel_diameter_range": [
+            0.027,
+            0.027
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.08,
+            1.08
+        ],
+        "scale_factor_shank_range": [
+            1.07,
+            1.07
+        ],
+        "scale_factor_foot_range": [
+            0.75,
+            0.75
+        ],
+        "spring_offset_length_range": [
+            0.007,
+            0.007
+        ],
+        "spring_wheel_diameter_range": [
+            0.012,
+            0.012
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.19,
+            1.19
+        ],
+        "scale_factor_shank_range": [
+            1.23,
+            1.23
+        ],
+        "scale_factor_foot_range": [
+            1.15,
+            1.15
+        ],
+        "spring_offset_length_range": [
+            0.009,
+            0.009
+        ],
+        "spring_wheel_diameter_range": [
+            0.041,
+            0.041
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.73,
+            0.73
+        ],
+        "scale_factor_shank_range": [
+            0.78,
+            0.78
+        ],
+        "scale_factor_foot_range": [
+            1.22,
+            1.22
+        ],
+        "spring_offset_length_range": [
+            0.002,
+            0.002
+        ],
+        "spring_wheel_diameter_range": [
+            0.018,
+            0.018
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.96,
+            0.96
+        ],
+        "scale_factor_shank_range": [
+            0.76,
+            0.76
+        ],
+        "scale_factor_foot_range": [
+            0.7,
+            0.7
+        ],
+        "spring_offset_length_range": [
+            0.006,
+            0.006
+        ],
+        "spring_wheel_diameter_range": [
+            0.017,
+            0.017
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.09,
+            1.09
+        ],
+        "scale_factor_shank_range": [
+            1.14,
+            1.14
+        ],
+        "scale_factor_foot_range": [
+            0.93,
+            0.93
+        ],
+        "spring_offset_length_range": [
+            0.001,
+            0.001
+        ],
+        "spring_wheel_diameter_range": [
+            0.014,
+            0.014
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.16,
+            1.16
+        ],
+        "scale_factor_shank_range": [
+            1.24,
+            1.24
+        ],
+        "scale_factor_foot_range": [
+            0.86,
+            0.86
+        ],
+        "spring_offset_length_range": [
+            0.004,
+            0.004
+        ],
+        "spring_wheel_diameter_range": [
+            0.015,
+            0.015
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.04,
+            1.04
+        ],
+        "scale_factor_shank_range": [
+            0.93,
+            0.93
+        ],
+        "scale_factor_foot_range": [
+            1.2,
+            1.2
+        ],
+        "spring_offset_length_range": [
+            0.004,
+            0.004
+        ],
+        "spring_wheel_diameter_range": [
+            0.037,
+            0.037
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.78,
+            0.78
+        ],
+        "scale_factor_shank_range": [
+            0.84,
+            0.84
+        ],
+        "scale_factor_foot_range": [
+            1.0,
+            1.0
+        ],
+        "spring_offset_length_range": [
+            0.007,
+            0.007
+        ],
+        "spring_wheel_diameter_range": [
+            0.008,
+            0.008
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.98,
+            0.98
+        ],
+        "scale_factor_shank_range": [
+            0.71,
+            0.71
+        ],
+        "scale_factor_foot_range": [
+            1.2,
+            1.2
+        ],
+        "spring_offset_length_range": [
+            0.001,
+            0.001
+        ],
+        "spring_wheel_diameter_range": [
+            0.019,
+            0.019
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.78,
+            0.78
+        ],
+        "scale_factor_shank_range": [
+            1.12,
+            1.12
+        ],
+        "scale_factor_foot_range": [
+            0.93,
+            0.93
+        ],
+        "spring_offset_length_range": [
+            0.009,
+            0.009
+        ],
+        "spring_wheel_diameter_range": [
+            0.01,
+            0.01
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.12,
+            1.12
+        ],
+        "scale_factor_shank_range": [
+            0.87,
+            0.87
+        ],
+        "scale_factor_foot_range": [
+            1.18,
+            1.18
+        ],
+        "spring_offset_length_range": [
+            0.009,
+            0.009
+        ],
+        "spring_wheel_diameter_range": [
+            0.021,
+            0.021
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.084,
+            1.084
+        ],
+        "scale_factor_shank_range": [
+            0.715,
+            0.715
+        ],
+        "scale_factor_foot_range": [
+            0.865,
+            0.865
+        ],
+        "spring_offset_length_range": [
+            0.002,
+            0.002
+        ],
+        "spring_wheel_diameter_range": [
+            0.037,
+            0.037
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.106,
+            1.106
+        ],
+        "scale_factor_shank_range": [
+            1.235,
+            1.235
+        ],
+        "scale_factor_foot_range": [
+            0.752,
+            0.752
+        ],
+        "spring_offset_length_range": [
+            0.004,
+            0.004
+        ],
+        "spring_wheel_diameter_range": [
+            0.001,
+            0.001
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.831,
+            0.831
+        ],
+        "scale_factor_shank_range": [
+            1.003,
+            1.003
+        ],
+        "scale_factor_foot_range": [
+            0.716,
+            0.716
+        ],
+        "spring_offset_length_range": [
+            0.002,
+            0.002
+        ],
+        "spring_wheel_diameter_range": [
+            0.032,
+            0.032
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.027,
+            1.027
+        ],
+        "scale_factor_shank_range": [
+            0.832,
+            0.832
+        ],
+        "scale_factor_foot_range": [
+            1.054,
+            1.054
+        ],
+        "spring_offset_length_range": [
+            0.008,
+            0.008
+        ],
+        "spring_wheel_diameter_range": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.183,
+            1.183
+        ],
+        "scale_factor_shank_range": [
+            1.119,
+            1.119
+        ],
+        "scale_factor_foot_range": [
+            0.904,
+            0.904
+        ],
+        "spring_offset_length_range": [
+            0.002,
+            0.002
+        ],
+        "spring_wheel_diameter_range": [
+            0.048,
+            0.048
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.902,
+            0.902
+        ],
+        "scale_factor_shank_range": [
+            0.756,
+            0.756
+        ],
+        "scale_factor_foot_range": [
+            0.758,
+            0.758
+        ],
+        "spring_offset_length_range": [
+            0.008,
+            0.008
+        ],
+        "spring_wheel_diameter_range": [
+            0.03,
+            0.03
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.184,
+            1.184
+        ],
+        "scale_factor_shank_range": [
+            1.138,
+            1.138
+        ],
+        "scale_factor_foot_range": [
+            1.022,
+            1.022
+        ],
+        "spring_offset_length_range": [
+            0.01,
+            0.01
+        ],
+        "spring_wheel_diameter_range": [
+            0.019,
+            0.019
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.031,
+            1.031
+        ],
+        "scale_factor_shank_range": [
+            1.198,
+            1.198
+        ],
+        "scale_factor_foot_range": [
+            1.071,
+            1.071
+        ],
+        "spring_offset_length_range": [
+            0.009,
+            0.009
+        ],
+        "spring_wheel_diameter_range": [
+            0.029,
+            0.029
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.123,
+            1.123
+        ],
+        "scale_factor_shank_range": [
+            0.727,
+            0.727
+        ],
+        "scale_factor_foot_range": [
+            0.837,
+            0.837
+        ],
+        "spring_offset_length_range": [
+            0.003,
+            0.003
+        ],
+        "spring_wheel_diameter_range": [
+            0.004,
+            0.004
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.84,
+            0.84
+        ],
+        "scale_factor_shank_range": [
+            0.761,
+            0.761
+        ],
+        "scale_factor_foot_range": [
+            0.867,
+            0.867
+        ],
+        "spring_offset_length_range": [
+            0.006,
+            0.006
+        ],
+        "spring_wheel_diameter_range": [
+            0.018,
+            0.018
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.922,
+            0.922
+        ],
+        "scale_factor_shank_range": [
+            0.826,
+            0.826
+        ],
+        "scale_factor_foot_range": [
+            0.86,
+            0.86
+        ],
+        "spring_offset_length_range": [
+            0.009,
+            0.009
+        ],
+        "spring_wheel_diameter_range": [
+            0.032,
+            0.032
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.065,
+            1.065
+        ],
+        "scale_factor_shank_range": [
+            0.803,
+            0.803
+        ],
+        "scale_factor_foot_range": [
+            1.137,
+            1.137
+        ],
+        "spring_offset_length_range": [
+            0.002,
+            0.002
+        ],
+        "spring_wheel_diameter_range": [
+            0.019,
+            0.019
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.294,
+            1.294
+        ],
+        "scale_factor_shank_range": [
+            1.084,
+            1.084
+        ],
+        "scale_factor_foot_range": [
+            1.034,
+            1.034
+        ],
+        "spring_offset_length_range": [
+            0.007,
+            0.007
+        ],
+        "spring_wheel_diameter_range": [
+            0.042,
+            0.042
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.166,
+            1.166
+        ],
+        "scale_factor_shank_range": [
+            0.837,
+            0.837
+        ],
+        "scale_factor_foot_range": [
+            0.719,
+            0.719
+        ],
+        "spring_offset_length_range": [
+            0.003,
+            0.003
+        ],
+        "spring_wheel_diameter_range": [
+            0.013,
+            0.013
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.827,
+            0.827
+        ],
+        "scale_factor_shank_range": [
+            1.266,
+            1.266
+        ],
+        "scale_factor_foot_range": [
+            1.226,
+            1.226
+        ],
+        "spring_offset_length_range": [
+            0.003,
+            0.003
+        ],
+        "spring_wheel_diameter_range": [
+            0.033,
+            0.033
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.937,
+            0.937
+        ],
+        "scale_factor_shank_range": [
+            1.249,
+            1.249
+        ],
+        "scale_factor_foot_range": [
+            0.975,
+            0.975
+        ],
+        "spring_offset_length_range": [
+            0.003,
+            0.003
+        ],
+        "spring_wheel_diameter_range": [
+            0.012,
+            0.012
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.037,
+            1.037
+        ],
+        "scale_factor_shank_range": [
+            0.858,
+            0.858
+        ],
+        "scale_factor_foot_range": [
+            1.051,
+            1.051
+        ],
+        "spring_offset_length_range": [
+            0.009,
+            0.009
+        ],
+        "spring_wheel_diameter_range": [
+            0.02,
+            0.02
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.832,
+            0.832
+        ],
+        "scale_factor_shank_range": [
+            1.299,
+            1.299
+        ],
+        "scale_factor_foot_range": [
+            1.006,
+            1.006
+        ],
+        "spring_offset_length_range": [
+            0.001,
+            0.001
+        ],
+        "spring_wheel_diameter_range": [
+            0.002,
+            0.002
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.766,
+            0.766
+        ],
+        "scale_factor_shank_range": [
+            1.076,
+            1.076
+        ],
+        "scale_factor_foot_range": [
+            1.175,
+            1.175
+        ],
+        "spring_offset_length_range": [
+            0.004,
+            0.004
+        ],
+        "spring_wheel_diameter_range": [
+            0.003,
+            0.003
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.929,
+            0.929
+        ],
+        "scale_factor_shank_range": [
+            1.298,
+            1.298
+        ],
+        "scale_factor_foot_range": [
+            1.017,
+            1.017
+        ],
+        "spring_offset_length_range": [
+            0.01,
+            0.01
+        ],
+        "spring_wheel_diameter_range": [
+            0.043,
+            0.043
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            0.707,
+            0.707
+        ],
+        "scale_factor_shank_range": [
+            1.132,
+            1.132
+        ],
+        "scale_factor_foot_range": [
+            1.109,
+            1.109
+        ],
+        "spring_offset_length_range": [
+            0.005,
+            0.005
+        ],
+        "spring_wheel_diameter_range": [
+            0.013,
+            0.013
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.085,
+            1.085
+        ],
+        "scale_factor_shank_range": [
+            0.767,
+            0.767
+        ],
+        "scale_factor_foot_range": [
+            0.961,
+            0.961
+        ],
+        "spring_offset_length_range": [
+            0.005,
+            0.005
+        ],
+        "spring_wheel_diameter_range": [
+            0.048,
+            0.048
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.226,
+            1.226
+        ],
+        "scale_factor_shank_range": [
+            0.858,
+            0.858
+        ],
+        "scale_factor_foot_range": [
+            1.0,
+            1.0
+        ],
+        "spring_offset_length_range": [
+            0.002,
+            0.002
+        ],
+        "spring_wheel_diameter_range": [
+            0.046,
+            0.046
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.222,
+            1.222
+        ],
+        "scale_factor_shank_range": [
+            0.879,
+            0.879
+        ],
+        "scale_factor_foot_range": [
+            1.083,
+            1.083
+        ],
+        "spring_offset_length_range": [
+            0.006,
+            0.006
+        ],
+        "spring_wheel_diameter_range": [
+            0.008,
+            0.008
+        ]
+    },
+    {
+        "scale_factor_thigh_range": [
+            1.158,
+            1.158
+        ],
+        "scale_factor_shank_range": [
+            1.024,
+            1.024
+        ],
+        "scale_factor_foot_range": [
+            1.167,
+            1.167
+        ],
+        "spring_offset_length_range": [
+            0.005,
+            0.005
+        ],
+        "spring_wheel_diameter_range": [
+            0.0,
+            0.0
+        ]
+    }
+]
