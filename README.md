@@ -50,6 +50,22 @@ python experiments/figure_s3_electronics_energy/plot_energy_jetson_only.py
 
 Output will be saved to `plots/figure_s3/energy_jetson_only.pdf`.
 
+### Prerequisites for LaTeX-quality Plots
+
+To enable LaTeX rendering in plots (for publication-quality figures), you need a LaTeX distribution with the following packages:
+
+- amsmath
+- amssymb
+- wasysym
+- mathptmx
+
+On Ubuntu/Debian, install them with:
+
+```bash
+sudo apt-get update
+sudo apt-get install texlive-latex-extra texlive-fonts-recommended dvipng cm-super
+```
+
 ---
 
 ## License
