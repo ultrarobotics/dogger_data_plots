@@ -1,10 +1,10 @@
 # Learning Purposeful Co-designs of Bio-inspired Quadrupedal Robots
 
-**Fabio Boekel, Jiatao Ding*, Cosimo Della Santina**  
+**Fabio Boekel, Jiatao Ding, Cosimo Della Santina**  
 1. Department of Cognitive Robotics, ME, Delft University of Technology, The Netherlands  
 2. Department of Industrial Engineering, University of Trento, Italy  
 3. Institute of Robotics and Mechatronics, German Aerospace Center (DLR), Germany  
-*Corresponding author: jiatao.ding@unitn.it
+Corresponding author Jiatao Ding: jiatao.ding@unitn.it
 
 ---
 
